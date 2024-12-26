@@ -32,11 +32,11 @@ The Caesar cipher is a substitution cipher where each letter in the plaintext is
 
 ## Contributing
 If you'd like to contribute to this project:
--Fork the repository.
--Create a new branch (git checkout -b feature-branch-name).
--Commit your changes (git commit -m 'Add feature').
--Push to the branch (git push origin feature-branch-name).
--Open a pull request.
+ -Fork the repository.
+ -Create a new branch (git checkout -b feature-branch-name).
+ -Commit your changes (git commit -m 'Add feature').
+ -Push to the branch (git push origin feature-branch-name).
+ -Open a pull request.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
