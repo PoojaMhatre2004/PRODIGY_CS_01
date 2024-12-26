@@ -23,20 +23,13 @@ Make sure you have Python 3 installed on your system.
    ```bash
    python Caesar_cipher.py
    ```
+   
 ## How It Works
 The Caesar cipher is a substitution cipher where each letter in the plaintext is shifted by a certain number of places down or up the alphabet. Non-alphabetic characters are not shifted.
 #The program allows users to:
 1. Enter a message to encrypt.
 2. Enter a message to decrypt.
 3. Exit the program.
-
-## Contributing
-If you'd like to contribute to this project:
- -Fork the repository.
- -Create a new branch (git checkout -b feature-branch-name).
- -Commit your changes (git commit -m 'Add feature').
- -Push to the branch (git push origin feature-branch-name).
- -Open a pull request.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
