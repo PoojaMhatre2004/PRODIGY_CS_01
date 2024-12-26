@@ -12,9 +12,9 @@ Make sure you have Python 3 installed on your system.
 
 ### Running the Program
 1. Clone the repository:
- ```bash
+   ```bash
    git clone https://github.com/your-username/caesar-cipher.git
- ```
+   ```
 2. Navigate to the project directory:
    ```bash
    cd PRODIGYp_CS_01
