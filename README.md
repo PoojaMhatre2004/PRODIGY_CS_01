@@ -23,3 +23,15 @@ Make sure you have Python 3 installed on your system.
  ```bash
    git clone https://github.com/your-username/caesar-cipher.git
  ```
+2. Navigate to the project directory:
+   ```bash
+   cd PRODIGYp_CS_01
+   ```
+3. Run the program:
+   ```bash
+   python Caesar_cipher.py
+   ```
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
